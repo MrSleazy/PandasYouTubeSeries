@@ -1,0 +1,3 @@
+pip install pandas
+pip install ipykernel
+pip install openpyxl
